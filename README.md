@@ -1,5 +1,4 @@
-# Udacity Robotics Nanodegree
-# Project #4: Map My World
+# Udacity Robotics Nanodegree - Map My World
 
 ## The rtabmap database viewer
 ![](/images/rtabmapdatabaseViewer.png)
