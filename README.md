@@ -45,7 +45,7 @@ $ rtabmap-databaseViewer rtabmap.db
 
 Click "yes" when asked about database parameters, and then select "Constraint View" and "Graph View" from the View menu.
 
-## The problem may face
+## The problem faced and solution
 
 1. If download the rtabmap ROS package from its github page, the rtabmap version is 0.19.xx but in this project, we should use 0.17.xx, so this confused me a lot when configure the environment. For this project, just need the 0.17 version, to install the package, just type in the terminal
 ```
