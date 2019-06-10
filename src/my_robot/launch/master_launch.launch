@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- csosa_bot -->
+<launch>
+	<!-- World File Launch -->
+	<include file="$(find my_robot)/launch/world.launch"/>
+	<!-- AMCL Launch 
+	<include file="$(find my_robot)/launch/mapping.launch"/>-->
+        <!--launch mapping -->
+	<include file="$(find my_robot)/launch/mapping.launch"/>
+
+</launch>

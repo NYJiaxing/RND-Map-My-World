@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="my_robot" type="teleop_twist_keyboard" name="teleop_twist_keyboard"  output="screen">
+    <remap from="teleop/cmd_vel" to="cmd_vel"/>
+  </node>
+</launch>
