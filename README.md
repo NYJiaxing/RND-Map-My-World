@@ -1,7 +1,7 @@
 # Udacity Robotics Nanodegree
 # Project #4: Map My World
 
-![rtabmap_map](images/rtabmap-databaseViewer.png)
+![rtabmap_map](images/rtabmap_databaseViewer.png)
 
 ## Introduction
 This is a project for Udacity's Robotics NanoDegree. It's a robot that uses a Hokuyo laser scanner and RGBD camera to perform simultaneous localization and mapping (SLAM).
